@@ -4,15 +4,6 @@ A minimal chat UI template for a RAG agent — multi-turn conversation, multiple
 
 Demo: https://chat-agent-ui.fly.dev
 
-## Usage
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
 ## Features
 
 - Textarea composer with auto-resize, Enter to send / Shift+Enter for a newline

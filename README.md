@@ -2,6 +2,8 @@
 
 A minimal chat UI template for a RAG agent — multi-turn conversation, multiple chats, and per-message feedback. Built with [SolidJS](https://solidjs.com), [Kobalte](https://kobalte.dev) and Tailwind CSS.
 
+Demo: https://chat-agent-ui.fly.dev
+
 ## Usage
 
 ```bash
